@@ -1,15 +1,12 @@
 # HeStong
+# 我的 GitHub 学习之旅
 
-我的第一个 GitHub 仓库。
+这是我的第一个 GitHub 仓库！
 
-## 关于
-- 账号：hejingyang18
-- 创建时间：2026-10-09
-- 用途：练习 git 操作，记录学习过程
+## 学习目标
+- 学会使用 GitHub
+- 学会 Python 编程
+- 使用 Codex 辅助开发小游戏
 
-## 常用命令
-```bash
-git add .                # 把改动暂存
-git commit -m "说明"      # 提交到本地仓库
-git push                 # 推送到 GitHub
-```
+## 学习记录
+- Day 1：创建仓库，学习 Commit
